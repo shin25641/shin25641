@@ -1,5 +1,5 @@
 
-Hi! I'm Seungho Shin, the Backend Engineer 
+<h1>Hi! I'm Seungho Shin, the Backend Engineer </h1>
 
 <h2>My tech stack</h2>
 
